@@ -1,0 +1,42 @@
+# =====================
+# Gradle
+# =====================
+.gradle/
+build/
+
+# =====================
+# IntelliJ IDEA
+# =====================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Environment files
+# =====================
+.env
+application-local.yml
+application-local.properties
+
+# =====================
+# JVM crash logs
+# =====================
+hs_err_pid*
+
+# =====================
+# Lombok
+# =====================
+lombok.config
